@@ -6,6 +6,7 @@ C4 是一个很好的架构记录和阐述模式
 * 配置语言，刷新页面后进入到主界面  
   ![select_language](pic/select_language.gif)
 * 从 URL 加载模板(https://raw.githubusercontent.com/victoryw/c4-drawio-template/master/c4-demo.drawio)
+  ![import_template](pic/import_template.gif)
 * 开始工作
 * 保存工作到本地文件  
   ![save_work_to_local](pic/save_work_to_local.gif)
